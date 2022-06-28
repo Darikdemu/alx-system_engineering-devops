@@ -1,2 +1,2 @@
-#!/bin/bashpri
+#!/bin/bash
 printf "Hello, World\n"
