@@ -1,4 +1,5 @@
-#s script is displaying "Best school" 10 times
+#!/usr/bin/env bash
+##s script is displaying "Best school" 10 times
 hour=0
 while (( hour <= 12 ))
 do
