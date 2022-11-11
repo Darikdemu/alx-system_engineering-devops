@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #traps signals and creates a file containing its pid
 true=0
 echo $BASHPID > /var/run/myscript.pid
