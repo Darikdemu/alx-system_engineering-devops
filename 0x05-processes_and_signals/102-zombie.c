@@ -23,6 +23,7 @@ int main(void)
 
 	pid_t zombie_pid;
 	process = 0;
+
 	while (process < 5)
 	{
 		zombie_pid = fork();
