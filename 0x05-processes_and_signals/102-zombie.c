@@ -22,6 +22,7 @@ int main(void)
 	int process;
 
 	pid_t zombie_pid;
+
 	process = 0;
 
 	while (process < 5)
